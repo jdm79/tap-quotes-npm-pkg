@@ -1,0 +1,17 @@
+{
+  "name": "tap-quotes-npm-pkg",
+  "version": "1.0.0",
+  "description": "Tap quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spinal",
+    "tap",
+    "quotes",
+    "random"
+  ],
+  "author": "James Malvern",
+  "license": "ISC"
+}
