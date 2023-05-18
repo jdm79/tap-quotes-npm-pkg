@@ -1,7 +1,7 @@
 {
   "name": "tap-quotes-npm-pkg",
   "version": "1.0.0",
-  "description": "Tap quotes",
+  "description": "This NPM package delivers random quotes and lyrics from the movie This is Spinal Tap. 570 different strings.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,9 @@
     "spinal",
     "tap",
     "quotes",
-    "random"
+    "random",
+    "this",
+    "is"
   ],
   "author": "James Malvern",
   "license": "ISC"
