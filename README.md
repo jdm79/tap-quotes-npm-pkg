@@ -3,9 +3,11 @@
 
 # How to use this package
 
+```js
 const { randomTapQuote } = require("tap-quotes-npm-pkg");
 
 randomTapQuote();
 // HOOKSTRATTEN: Ahh...Hookstratten..and you are Spinal Tarp?
+```
 
 WARNING: Some of these quotes and lyrics contain rather rude (NSFW) words.
