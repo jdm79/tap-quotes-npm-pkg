@@ -8,6 +8,8 @@
 This function will return a random quote or lyric from an array of over 11 (570 to be precise) strings.
 WARNING: Some of these quotes and lyrics contain rather rude (NSFW) words. They can be seen popping up every hour on the hour on [this Twitter bot](https://twitter.com/QuotesTap).
 
+The NPM page is [here](https://www.npmjs.com/package/tap-quotes-npm-pkg).
+
 ## How to use this package
 
 ```js
