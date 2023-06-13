@@ -14,10 +14,8 @@
     "this",
     "is"
   ],
-  {
-    "url" : "https://github.com/jdm79/tap-quotes-npm-pkg",
-    "email" : "james.malvern@gmail.com"
-  },
+  "url": "https://github.com/jdm79/tap-quotes-npm-pkg",
+  "email": "james.malvern@gmail.com",
   "author": "James Malvern",
   "license": "ISC"
 }
