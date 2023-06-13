@@ -1,6 +1,6 @@
 {
   "name": "tap-quotes-npm-pkg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This NPM package delivers random quotes and lyrics from the movie This is Spinal Tap. 570 different strings.",
   "main": "index.js",
   "scripts": {
