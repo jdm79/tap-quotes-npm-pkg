@@ -11,6 +11,8 @@ The Github repo can be found [here](https://github.com/jdm79/tap-quotes-npm-pkg)
 
 The array contains back tick multi-line strings - a different line for each person speaking (see example below). 
 
+The NPM page is [here](https://www.npmjs.com/package/tap-quotes-npm-pkg).
+
 ## How to use this package
 
 ```console
