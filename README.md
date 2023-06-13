@@ -7,11 +7,7 @@
 This function will return a random quote or lyric from an array of over 11 (570 to be precise) strings.
 WARNING: Some of these quotes and lyrics contain rather rude (NSFW) words. They used to be tweeted every hour on the hour on [this Twitter bot](https://twitter.com/QuotesTap), until Alan Musk cut off my access to the Twitter API.
 
-The Github repo can be found [here](https://github.com/jdm79/tap-quotes-npm-pkg).
-
-The array contains back tick multi-line strings - a different line for each person speaking (see example below). 
-
-The NPM page is [here](https://www.npmjs.com/package/tap-quotes-npm-pkg).
+The array contains back tick multi-line strings - a different line for each person speaking (see example below).
 
 ## How to use this package
 
@@ -20,7 +16,6 @@ npm i tap-quotes-npm-pkg
 ```
 
 ```js
-
 const { randomTapQuote } = require("tap-quotes-npm-pkg");
 
 randomTapQuote();

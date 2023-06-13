@@ -1,6 +1,6 @@
 {
   "name": "tap-quotes-npm-pkg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This NPM package delivers random quotes and lyrics from the movie This is Spinal Tap. 570 different strings.",
   "main": "index.js",
   "scripts": {
@@ -14,8 +14,8 @@
     "this",
     "is"
   ],
-  "url": "https://github.com/jdm79/tap-quotes-npm-pkg",
   "email": "james.malvern@gmail.com",
   "author": "James Malvern",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/jdm79/tap-quotes-npm-pkg"
 }
